@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/aliraza/Desktop/Office/VitruvianJ/d1.0.0/VitruvianSpace/3rdParty/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aliraza/Desktop/Office/VitruvianJ/d1.0.0/VitruvianSpace/3rdParty/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/aliraza/Desktop/Office/VitruvianJ/d1.0.0/VitruvianSpace/3rdParty/log4j.jar"/>
+	<classpathentry kind="lib" path="/Users/aliraza/Desktop/Office/VitruvianJ/d1.0.0/VitruvianSpace/3rdParty/postgresql.jar"/>
+	<classpathentry kind="lib" path="/Users/aliraza/Desktop/Office/VitruvianJ/d1.0.0/VitruvianSpace/3rdParty/w3c-dom.jar"/>
+	<classpathentry kind="lib" path="/Users/aliraza/Desktop/Office/VitruvianJ/d1.0.0/VitruvianSpace/3rdParty/javassist-3.15.0-GA/javassist.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
